@@ -1,0 +1,11 @@
+"seg_train" 
+"seg_train" 
+"# seg_train" 
+"# seg_test" 
+"# seg_pred" 
+"seg_pred" 
+"seg_test" 
+seg_train/
+seg_test/
+seg_pred/
+
