@@ -17,9 +17,9 @@ from keras import layers
 
 #%%
 #allocating the path of data
-data= pathlib.Path('seg_train/seg_train')
-validation=pathlib.Path('seg_test/seg_test')
-test=pathlib.Path('seg_pred')
+data= pathlib.Path('../seg_train/seg_train')
+validation=pathlib.Path('../seg_test/seg_test')
+test=pathlib.Path('../seg_pred')
 
 
 #%%
