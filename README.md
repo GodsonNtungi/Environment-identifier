@@ -8,7 +8,8 @@ The project involves creating a deep learning model that identifies the type of 
 
 Example above is the identification of the first picture in the above list
 
-The overall model accuracy is **74%**
+- The overall model accuracy is **74%**
+- No pretrained model used.
  
 
 
