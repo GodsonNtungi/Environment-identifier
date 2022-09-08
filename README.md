@@ -1,6 +1,6 @@
 ## Environment-identifier 
-<p> The project involves creating a deep learning model 
-that identifies the type of environment using pictures </p>
+The project involves creating a deep learning model that identifies the type of environment using pictures.The model is capable of distinguishing 6 different environmental areas.The evironmental areas are buildings, street, mountains, glacier, sea and forest.
+- Purpose for the model is information gathering
 
 ### Demo Picture
 
